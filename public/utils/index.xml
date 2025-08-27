@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Utils on ISO Архив</title>
+    <link>//localhost:1313/utils/</link>
+    <description>Recent content in Utils on ISO Архив</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/utils/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rufus — программа для записи ISO на флешку</title>
+      <link>//localhost:1313/utils/rufus/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/utils/rufus/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Rufus&lt;/strong&gt; — удобная утилита для записи ISO-образов Windows и Linux на USB-накопители.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Версия: 4.6&lt;/li&gt;
+&lt;li&gt;Размер: 1.4 МБ&lt;/li&gt;
+&lt;li&gt;Платформа: Windows&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6.exe&#34;&gt;Скачать EXE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rufus.ie/&#34;&gt;Официальный сайт&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Совместим с BIOS и UEFI, поддерживает GPT и MBR разметку.&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

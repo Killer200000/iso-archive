@@ -1,0 +1,46 @@
+baseURL = "/"
+languageCode = "ru-ru"
+title = "ISO Архив"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  defaultTheme = "light"        # по умолчанию светлая тема
+  disableThemeToggle = false    # можно переключать на тёмную
+  showReadingTime = false
+  showBreadCrumbs = true
+  showPostNavLinks = true
+  showCodeCopyButtons = true
+  showShareButtons = false
+  comments = false
+
+  # meta описание
+  description = "Архив ISO Windows, Linux и полезного софта. Официальные образы, утилиты и инструкции."
+
+[menu]
+
+  [[menu.main]]
+    identifier = "windows"
+    name = "Windows ISO"
+    url = "/windows/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "linux"
+    name = "Linux ISO"
+    url = "/linux/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "utils"
+    name = "Утилиты"
+    url = "/utils/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "guides"
+    name = "Гайды"
+    url = "/guides/"
+    weight = 4

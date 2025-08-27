@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ISO Archive on ISO Архив</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in ISO Archive on ISO Архив</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 7 SP1 x64</title>
+      <link>//localhost:1313/windows/win7-sp1/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/windows/win7-sp1/</guid>
+      <description>&lt;p&gt;Официальный ISO образ Windows 7 SP1 x64.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Размер: 3.09 ГБ&lt;/li&gt;
+&lt;li&gt;Год: 2011&lt;/li&gt;
+&lt;li&gt;SHA256: &lt;code&gt;123abc456def...&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://software-download.microsoft.com/path-to-win7.iso&#34;&gt;Скачать ISO&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linuxes on ISO Архив</title>
+    <link>//localhost:1313/linux/</link>
+    <description>Recent content in Linuxes on ISO Архив</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu 24.04 LTS</title>
+      <link>//localhost:1313/linux/ubuntu/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/linux/ubuntu/</guid>
+      <description>&lt;p&gt;Официальный ISO образ &lt;strong&gt;Ubuntu 24.04 LTS (Noble Numbat)&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Размер: 4.6 ГБ&lt;/li&gt;
+&lt;li&gt;Год: 2024&lt;/li&gt;
+&lt;li&gt;Архитектура: x64&lt;/li&gt;
+&lt;li&gt;SHA256: &lt;code&gt;abc123def4567890...&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://releases.ubuntu.com/24.04/ubuntu-24.04-desktop-amd64.iso&#34;&gt;Скачать ISO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/download/desktop&#34;&gt;Официальный сайт&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Примечание: это LTS-версия, будет поддерживаться до 2029 года.&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>
