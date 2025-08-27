@@ -1,6 +1,6 @@
 ---
 title: "Windows 7 SP1 x64"
-date: 2025-08-27
+date: "2025-08-27"
 draft: false
 ---
 
