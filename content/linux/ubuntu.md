@@ -1,6 +1,6 @@
 ---
 title: "Ubuntu 24.04 LTS"
-date: 2025-08-27
+date: "2025-08-27"
 draft: false
 ---
 
