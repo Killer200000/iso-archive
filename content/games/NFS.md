@@ -4,7 +4,6 @@
 **Жанр:** Arcade, Racing, Cars, 3D  
 **Год выхода:** 2005  
 **Разработчик:** EA Black Box
-
 **Издатель:** Electronic Arts   
 
 ## Краткое описание
