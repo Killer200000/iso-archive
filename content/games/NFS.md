@@ -31,5 +31,5 @@ Most Wanted — это смесь адреналина, роскоши и пос
 5. Запускайте игру и наслаждайтесь!  
 
 ## Ссылки
-- **Скачать:** [Torrent / ZIP / ISO](ссылка)  
-- **Сайт разработчика:** [developer.com](https://developer.com)
+- **Скачать:** [Torrent / ZIP / ISO]()
+- **Скачать зимний мод:** [ZIP](https://archive.org/download/need-for-speed-most-wanted-winter-mod/Need%20For%20Speed%20-%20Most%20Wanted%20%20Winter%20Mod.zip)  **Torrent:** [Torrent](https://archive.org/download/need-for-speed-most-wanted-winter-mod/need-for-speed-most-wanted-winter-mod_archive.torrent)
