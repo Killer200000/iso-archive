@@ -1,3 +1,8 @@
+---
+title: "Neеd for Speed Most Wanted 2005"
+date: "2025-08-28"
+draft: false
+---
 ![Обложка игры](https://raw.githubusercontent.com/Killer200000/iso-archive/main/content/ScreenShots_games/NFS_Most_Wanted.PNG)
 
 # Neеd for Speed Most Wanted 2005
