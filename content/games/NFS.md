@@ -1,4 +1,4 @@
-![Обложка игры](/content/ScreenShots_games/NFS_Most_Wanted.PNG)
+![Обложка игры](https://raw.githubusercontent.com/Killer200000/iso-archive/main/content/ScreenShots_games/NFS_Most_Wanted.PNG)
 
 # Neеd for Speed Most Wanted 2005
 **Жанр:** Arcade, Racing, Cars, 3D  
