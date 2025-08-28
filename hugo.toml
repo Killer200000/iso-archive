@@ -44,3 +44,9 @@ theme = "PaperMod"
     name = "Гайды"
     url = "/guides/"
     weight = 4
+
+  [[menu.main]]
+    identifier = "games"
+    name = "Игры"
+    url = "/games/"
+    weight = 4
