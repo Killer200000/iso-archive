@@ -5,7 +5,6 @@ draft: false
 ---
 ![Обложка игры](https://raw.githubusercontent.com/Killer200000/iso-archive/main/content/ScreenShots_games/NFS_Most_Wanted.PNG)
 
-# Neеd for Speed Most Wanted 2005
 **Жанр:** Arcade, Racing, Cars, 3D  
 **Год выхода:** 2005  
 **Разработчик:** EA Black Box  **Издатель:** Electronic Arts   
