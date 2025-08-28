@@ -1,4 +1,4 @@
-![Обложка игры](iso-archive/content/ScreenShots_games/NFS_Most_Wanted.PNG)
+![Обложка игры](/content/ScreenShots_games/NFS_Most_Wanted.PNG)
 
 # Neеd for Speed Most Wanted 2005
 **Жанр:** Arcade, Racing, Cars, 3D  
