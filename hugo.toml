@@ -50,3 +50,8 @@ theme = "PaperMod"
     name = "Игры"
     url = "/games/"
     weight = 4
+  [[menu.main]]
+    identifier = "Android_app"
+    name = "Андроид приложения"
+    url = "/Android_app/"
+    weight = 4
