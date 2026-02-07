@@ -4,7 +4,6 @@ date: "2026-02-07"
 draft: false
 ---
 
-**Жанр:** Arcade, Racing, Cars, 3D  
 **Год выхода:** 2001  
 **Разработчик:** Rockstar Games  **Издатель:** TakeTwo   
 
